@@ -1,6 +1,10 @@
 # Northwind-Traders-Database
 ## Table Content
-
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Methodology](#methodology)
+- [Key Insights and Findings](#key-insights-and-findings)
 ## Project Overview
 The Northwind Traders database would guide the analytical process from data acquisition and preparation through to actionable insights and recommendations. This structured approach ensures clarity and alignment with project objectives, leveraging data-driven insights to drive business decisions and improvements.
 
