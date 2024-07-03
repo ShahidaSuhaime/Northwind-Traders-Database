@@ -19,23 +19,23 @@ Our approach to analyse database for the operations of Northwind Traders which i
 
 ### Data Ingestion and Database Creation:
 
-Objective: Establish a robust foundation for data storage and retrieval.
-Process: A relational database was created in Postgresql Server to store comprehensive loan data, ensuring data integrity and accessibility.
+- Objective: Establish a robust foundation for data storage and retrieval.
+- Process: A relational database was created in Postgresql Server to store comprehensive loan data, ensuring data integrity and accessibility.
 
 ### Data Analysis and SQL Queries:
 
-Objective: Extract meaningful insights and key performance indicators (KPIs).
-Process: SQL queries were meticulously developed to retrieve essential KPIs, including total revenue, total quantity ordered, the revenue by product category and total sales over time (yearly, monthly, quarterly and daily).
+- Objective: Extract meaningful insights and key performance indicators (KPIs).
+- Process: SQL queries were meticulously developed to retrieve essential KPIs, including total revenue, total quantity ordered, the revenue by product category and total sales over time (yearly, monthly, quarterly and daily).
 
 ### Data Processing in Excel:
 
-Objective: Perform initial data cleaning and preliminary analysis.
-Process: The dataset underwent further cleaning and processing in Excel, which included data validation and the generation of preliminary insights. This step ensured the accuracy and reliability of the data before more advanced analysis.
+- Objective: Perform initial data cleaning and preliminary analysis.
+- Process: The dataset underwent further cleaning and processing in Excel, which included data validation and the generation of preliminary insights. This step ensured the accuracy and reliability of the data before more advanced analysis.
 
 ### Visualization:
 
-Objective: Transform data into actionable visual insights.
-Process: The results from the SQL queries were visualized using Power BI and Excel. These visualizations were designed to ensure data consistency and to provide a clear, graphical representation of the findings. This step was critical for communicating insights effectively to stakeholders.
+- Objective: Transform data into actionable visual insights.
+- Process: The results from the SQL queries were visualized using Power BI and Excel. These visualizations were designed to ensure data consistency and to provide a clear, graphical representation of the findings. This step was critical for communicating insights effectively to stakeholders.
 
 ## Key Insights and Findings
 - Based on the overview, the total revenue for this database is $1.27 million and total quantity ordered is 51317 from 77 products offered. 
