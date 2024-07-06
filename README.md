@@ -49,3 +49,5 @@ Our approach to analyse database for the operations of Northwind Traders which i
 - Northwind traders rely on three different shipping companies to get their products to their customer; United Package, Federal Shipping and Speedy Express. Out of these three, United Package has delivered the most orders and the most expensive with a average shipping cost of $86.6.
 - Moving forward, the company must actively seek replacements for discontinued products, especially those that were top selling in order to sustain and potentially improve market performance.
 - To further improve,prioritizing efforts to enhance order fulfillment speed, especially for customers in Switzerland, Sweden and Ireland is recommended.
+
+  ##### For deeper insights, please explore all the uploaded files.
